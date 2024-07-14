@@ -1,5 +1,5 @@
 # Info
-The checker works proxyless it's somewhat fast I will make it better and faster in a week this is my first project in Go 
+The checker works proxyless it's somewhat fast I will make it better and faster in the future, this is my first project in Go 
 
 # How To Setup
 1. Put Your Combolist in combo.txt
