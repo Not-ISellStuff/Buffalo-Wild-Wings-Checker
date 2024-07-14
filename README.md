@@ -9,4 +9,4 @@ If you don't trust the exe the source is in main.go (you need to install go firs
 
 # Start Checking
 
-![image](https://github.com/user-attachments/assets/e285bd80-e703-4218-8f09-d09fd4934ae6)
+![Screenshot 2024-07-14 142358](https://github.com/user-attachments/assets/fb8c4405-7074-46fe-8666-525740ea306b)
